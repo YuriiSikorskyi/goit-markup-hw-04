@@ -191,7 +191,7 @@ img {
   max-width: 1600px;
   margin: 0 auto;
   background-color: var(--dark-backgrount);
-	background-image: linear-gradient(to bottom,rgba(47, 48, 58, 0.4),	rgba(47, 48, 58, 0.4)), url(../images/Img-hero.png);
+	background-image: linear-gradient(to bottom,rgba(47, 48, 58, 0.4),	rgba(47, 48, 58, 0.4)), url(../images/Img-hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
